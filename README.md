@@ -11,8 +11,8 @@ Create a Full Stack Website With Golang Programming Language
      - Payment Gateway
 - Order History
 - Admin Panel
-      - Dashboard
-      - Manage Products
-      - Manage Orders
-      - Reports
-      - Configuration
+     - Dashboard
+     - Manage Products
+     - Manage Orders
+     - Reports
+     - Configuration
